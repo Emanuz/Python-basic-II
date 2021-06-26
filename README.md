@@ -1,6 +1,4 @@
-# Python-basic-II
-Starter code for Basic Python ii Training
-# Kubernets Inc <> Southern Europe Bootcamp 
+# MLH Localhost <> Capital One
 
 This project contains the starter code for Basic Training: Bot Camp!
 
